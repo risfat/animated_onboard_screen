@@ -67,7 +67,7 @@ OnboardingScreen(
 
 ## Additional information
 
-For more detailed examples and advanced usage, please refer to the [example](https://github.com/risfat/animated_onboarding_screen/tree/main/example) folder in the repository.
+For more detailed examples and advanced usage, please refer to the [example](https://github.com/risfat/animated_onboarding_screen/tree/master/example) folder in the repository.
 
 ### Contributing
 
