@@ -1,4 +1,4 @@
-# Animated Onboarding Screen
+# Animated Onboard Screen
 
 A Flutter package for creating engaging and interactive animated onboarding screens.
 
@@ -12,11 +12,11 @@ A Flutter package for creating engaging and interactive animated onboarding scre
 
 ## Getting started
 
-To use this package, add `animated_onboarding_screen` as a dependency in your `pubspec.yaml` file:
+To use this package, add `animated_onboard_screen` as a dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  animated_onboarding_screen: ^1.0.0
+  animated_onboard_screen: ^1.0.0
 ```
 
 Then, run:
@@ -30,7 +30,7 @@ flutter pub get
 Import the package in your Dart code:
 
 ```dart
-import 'package:animated_onboarding_screen/animated_onboarding_screen.dart';
+import 'package:animated_onboard_screen/animated_onboard_screen.dart';
 ```
 
 Create an `OnboardingScreen` widget with a list of `OnboardingPage` objects:
@@ -67,11 +67,11 @@ OnboardingScreen(
 
 ## Additional information
 
-For more detailed examples and advanced usage, please refer to the [example](https://github.com/risfat/animated_onboarding_screen/tree/master/example) folder in the repository.
+For more detailed examples and advanced usage, please refer to the [example](https://github.com/risfat/animated_onboard_screen/tree/master/example) folder in the repository.
 
 ### Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please file an issue on the [GitHub repository](https://github.com/risfat/animated_onboarding_screen/issues).
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please file an issue on the [GitHub repository](https://github.com/risfat/animated_onboard_screen/issues).
 
 ### License
 

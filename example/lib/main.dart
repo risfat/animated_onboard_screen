@@ -1,4 +1,4 @@
-import 'package:animated_onboarding_screen/animated_onboarding_screen.dart';
+import 'package:animated_onboard_screen/animated_onboard_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
