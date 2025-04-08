@@ -2,7 +2,7 @@
 
 A Flutter package for creating engaging and interactive animated onboarding screens.
 
-<div style="text-align: center;"><img src="https://github.com/risfat/animated_onboarding_screen/raw/refs/heads/master/demo/demo.gif" width="150" alt="Demo GIF">
+<div style="text-align: center;"><img src="https://github.com/risfat/animated_onboard_screen/raw/refs/heads/master/demo/demo.gif" width="150" alt="Demo GIF">
 </div>
 
 ## Features
