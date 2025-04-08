@@ -2,7 +2,7 @@
 
 A Flutter package for creating engaging and interactive animated onboarding screens.
 
-![Demo Video](https://github.com/risfat/animated_onboarding_screen/raw/refs/heads/master/demo/demo.mp4)
+![Demo Video](https://github.com/risfat/animated_onboarding_screen/raw/refs/heads/master/demo/demo.gif)
 
 ## Features
 
