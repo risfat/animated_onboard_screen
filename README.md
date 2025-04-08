@@ -2,7 +2,8 @@
 
 A Flutter package for creating engaging and interactive animated onboarding screens.
 
-![Demo Video](https://github.com/risfat/animated_onboarding_screen/raw/refs/heads/master/demo/demo.gif)
+<div style="text-align: center;"><img src="https://github.com/risfat/animated_onboarding_screen/raw/refs/heads/master/demo/demo.gif" width="150" alt="Demo GIF">
+</div>
 
 ## Features
 
@@ -18,7 +19,7 @@ To use this package, add `animated_onboard_screen` as a dependency in your `pubs
 
 ```yaml
 dependencies:
-  animated_onboard_screen: ^1.0.0
+  animated_onboard_screen: ^1.0.1
 ```
 
 Then, run:

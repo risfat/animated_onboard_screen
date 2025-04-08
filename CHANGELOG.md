@@ -6,3 +6,7 @@
 * Easy-to-use API for creating onboarding experiences
 * Support for various content types (text, images, icons)
 * Customizable page indicators
+
+## 1.0.1
+
+* Readme Updated...
